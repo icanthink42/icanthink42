@@ -15,3 +15,7 @@ I'm developing a large scale space simulaton game with n-body physics. I've deve
 I'm developing a voxel-based game capable of simulating tens of thousands of dynamic world interacting entities. I've developed my own engine and renderer from scratch in Rust that includes LOD chunks as well as greedy meshing of voxels and draw call batching. The game is multiplayer and uses a custom packet system I developed using websockets.
 
 ![Photo of massive view distance voxel game](mercury.webp)
+
+**Contact**
+
+You can reach me by email at [jackneeleman981@gmail.com](jackneeleman981@gmail.com) or by connecting with my on [LinkedIn](https://www.linkedin.com/in/jack-neeleman-99564a258/)
