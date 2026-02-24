@@ -8,7 +8,7 @@ I am an Aerospace Engineer and Mechanical Engineer with a strong passion for and
 
 I'm developing a large scale space simulaton game with n-body physics. I've developed my own engine and renderer from scratch in Rust to support the large scales without running into floating point rendering and simulation issues. With the engine I can have millimeter precision while simulating bodies on the scale of galaxies.
 
-![Photo of massive view distance voxel game](venus.webp)
+![Photo of sunrise from low earth orbit using rayleigh scattering](venus.webp)
 
 **Project Mercury**
 
