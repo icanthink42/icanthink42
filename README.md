@@ -16,7 +16,7 @@ I'm developing a large scale space simulaton game with n-body physics. I've deve
 I'm developing a voxel-based game capable of simulating tens of thousands of dynamic world interacting entities. I've developed my own engine and renderer from scratch in Rust that includes LOD chunks as well as greedy meshing of voxels and draw call batching. The game is multiplayer and uses a custom packet system I developed using websockets.
 
 ![Photo of massive view distance voxel game](mercury.webp)
-*Voxel terrain utilizing chunk LODing to provide massive view distances.*
+*Voxel terrain utilizing chunk LODing to provide massive view distances. One of 1000 pathfinding entities is seen swimming in the water.*
 
 **Contact**
 
