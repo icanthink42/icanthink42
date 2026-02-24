@@ -9,12 +9,14 @@ I am an Aerospace Engineer and Mechanical Engineer with a strong passion for and
 I'm developing a large scale space simulaton game with n-body physics. I've developed my own engine and renderer from scratch in Rust to support the large scales without running into floating point rendering and simulation issues. With the engine I can have millimeter precision while simulating bodies on the scale of galaxies.
 
 ![Photo of sunrise from low earth orbit using rayleigh scattering](venus.webp)
+*Low earth orbit sunrise showing realistic rayleigh scattering rendered by my custom renderer and planetary terrain generation using fractal perlin noise.*
 
 **Project Mercury**
 
 I'm developing a voxel-based game capable of simulating tens of thousands of dynamic world interacting entities. I've developed my own engine and renderer from scratch in Rust that includes LOD chunks as well as greedy meshing of voxels and draw call batching. The game is multiplayer and uses a custom packet system I developed using websockets.
 
 ![Photo of massive view distance voxel game](mercury.webp)
+*Voxel terrain utilizing chunk LODing to provide massive view distances.*
 
 **Contact**
 
