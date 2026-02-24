@@ -18,4 +18,4 @@ I'm developing a voxel-based game capable of simulating tens of thousands of dyn
 
 **Contact**
 
-You can reach me by email at [jackneeleman981@gmail.com](jackneeleman981@gmail.com) or by connecting with my on [LinkedIn](https://www.linkedin.com/in/jack-neeleman-99564a258/)
+You can reach me by email at [jackneeleman981@gmail.com](jackneeleman981@gmail.com) or by connecting with my on [LinkedIn](https://www.linkedin.com/in/jack-neeleman-99564a258/).
