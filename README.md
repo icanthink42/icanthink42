@@ -1,4 +1,4 @@
-# Hello! I'm Jack Neeleman (@icanthink42)
+# Hello! I'm Jack Neeleman
 
 I am an Aerospace Engineer and Mechanical Engineer with a strong passion for and foundation in programming.
 
